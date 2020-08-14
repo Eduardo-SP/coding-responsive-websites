@@ -106,7 +106,7 @@ body {
   padding: 0 2em;
   font-size: 1.25em;
   height: 100%;
-  color: #fff;
+  color: white;
 }
 
 header,
@@ -128,6 +128,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: white;
 
 }
 
@@ -150,6 +151,12 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+#top {
+  width: 100%
+}
+footer {
+  width: 100%
 }
 
 /* ==========================================================================
